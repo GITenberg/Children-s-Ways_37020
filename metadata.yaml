@@ -1,0 +1,29 @@
+_repo: Children-s-Ways_37020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sully, James
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '7616'
+    url: http://www.gutenberg.org/2009/agents/7616
+    wikipedia: http://en.wikipedia.org/wiki/James_Sully
+description: ''
+gutenberg_issued: '2011-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child psychology'
+- !lcsh 'Child development'
+- !lcc 'LB'
+title: "Children's Ways\r\nBeing selections from the author’s \"Studies of childhood,\"\
+  \ with some additional matter"
+url: http://www.gutenberg.org/ebooks/37020
